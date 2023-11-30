@@ -1,5 +1,5 @@
 # ONVIF_WSDL Project
-Welcome to the ONVIF_WSDL project! This repository is dedicated to providing a comprehensive solution for handling ONVIF (Open Network Video Interface Forum) Web Services Description Language (WSDL) files.
+Welcome to the ONVIF_WSDL project! This repository is dedicated to providing a comprehensive solution for handling ONVIF 
 
 # Project Overview
 The ONVIF_WSDL project focuses on managing essential aspects of ONVIF protocols, offering functionality for:
