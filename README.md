@@ -33,7 +33,7 @@ Don't forget to replace <Login>, <Password>, and <URL onvif example http://xxx.x
 with your actual credentials and ONVIF device URL.
 
 # Documentation
-comprehensive English documentation set is embedded directly in the source code in XML format, providing an easily accessible reference for developers.es.
+comprehensive English documentation set is embedded directly in the source code in XML format, providing an easily accessible reference for developers
 
 # Contributions
 Contributions are welcome! If you encounter any issues, have suggestions for improvements, or want to contribute new features, please check our Contribution Guidelines.
